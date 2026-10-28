@@ -36,3 +36,7 @@ This project was developed for my BSc (Hons) Computer Science dissertation at Ke
 
 ## Screenshots
 Screenshots of the museum, city environment, artefacts, and quiz system can be found below.
+
+
+![hello](https://github.com/BenLang-05/Educational-Digital-World-Within-Ancient-Mesopotamia/blob/main/Screenshots/2.png)
+![hello](https://github.com/BenLang-05/Educational-Digital-World-Within-Ancient-Mesopotamia/blob/main/Screenshots/Cuneiform_tablet.png")
