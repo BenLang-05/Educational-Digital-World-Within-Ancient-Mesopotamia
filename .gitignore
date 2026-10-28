@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+UserSettings/
+.vs/
+
+*.csproj
+*.sln
+*.slnx
+*.user
+
+.vsconfig
+
+Ancient Mesopotamia - The Museum Game/
+
+Assets/mesopotamia.fbx
+Assets/museum3.fbx
